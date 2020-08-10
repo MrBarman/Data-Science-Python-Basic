@@ -6,4 +6,4 @@ Basic implementation of Python Libraries and Techniques with python
    **- Scipy**<br/>
    **- Sklearn**<br/>
    **- NLP**<br/>
-   
+   **- Data Vizualization**<br/>
